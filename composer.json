@@ -1,0 +1,19 @@
+{
+  "name": "studioartcz/geolocation",
+  "description": "Geolocation work for Nette Framework",
+  "homepage": "https://github.com/studioartcz/geolocation",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michal Landsman",
+      "homepage": "http://www.studioart.cz"
+    }
+  ],
+  "require": {
+    "php": ">= 5.6.0",
+    "nette/di": ">= 2.3.0",
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
